@@ -14,4 +14,4 @@ Now I'm intensively learning to code and interested in Data Analysis. This repos
 
 telegram: [@ira_sha215](https://t.me/ira_sha215)
 
-e-mail: i.shayakhmetova21@gmail.com
+e-mail: irasha215@gmail.com
