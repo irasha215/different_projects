@@ -12,9 +12,9 @@ This a test item from ispring company. Data about sales of vehicles during 2003-
 
 Project:
 
-* presentation
+* [presentation](https://github.com/irasha215/small_projects/blob/main/vehicle_market_analysis/presentation.pdf)
 * [link to dashboard](https://public.tableau.com/views/test_item_ispring/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 * preprocessing data
-* 
+
 
 
