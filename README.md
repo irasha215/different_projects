@@ -8,6 +8,8 @@ Now I'm intensively learning to code and interested in Data Analysis. This repos
 
 [calculating_ltv_romi](https://github.com/irasha215/different_projects/tree/main/calculating_ltv_romi) -- calculating marketing metrics(LTV, ROMI, Retention) of the app and finding problematic areas.
 
+[vehicle_market_analysis](https://github.com/irasha215/small_projects/tree/main/vehicle_market_analysis) -- making a dashboard to analyze sales of vehicle products in 2003-2005.
+
 ---
 
 **Feel free to contact me**
